@@ -1,0 +1,15 @@
+{
+  "name": "Wonder Invoice",
+  "short_name": "Wonder Invoice",
+  "description": "Free GST invoices, quotations and receipts for Indian freelancers, creators and small businesses. No sign-up, your data stays on your device.",
+  "lang": "en-IN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F1FC",
+  "theme_color": "#573AFC",
+  "categories": ["business", "finance", "productivity"],
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
