@@ -1,9 +1,22 @@
-# Notice
+# Wonder Invoice
 
-Wonder Invoice is based on the open-source project **invoice-mitra**.
+Copyright 2026 Mayank Shrivastava (Wondermayank)
+https://wondermayank.in/
+https://github.com/wondermayank/wonderinvoice
 
-Before this site goes public, open the original repository, read its `LICENSE` file and follow it.
-Most open-source licences (MIT, Apache-2.0, BSD) require you to keep the original copyright
-notice and licence text with copies of the software. If the licence asks for that, paste it below.
+This product includes software developed by Wondermayank.
 
-<!-- Paste the original project's licence text and copyright line here. -->
+## License
+
+This project is dual-licensed. You may use it under either of:
+
+- MIT License (see `LICENSE-MIT`)
+- Apache License 2.0 (see `LICENSE-APACHE`)
+
+at your option. Keep this notice and the license text in every copy.
+
+## Credit
+
+If you use or fork this project, please give credit:
+
+Based on [Wonder Invoice](https://github.com/wondermayank/wonderinvoice) by [Wondermayank](https://wondermayank.in/)
